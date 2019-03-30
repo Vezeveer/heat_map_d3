@@ -1,0 +1,16 @@
+h1, h3{
+  text-align: center;
+}
+
+#container{
+  position: relative;
+}
+
+#tooltip{
+  display: none;
+  position: absolute;
+  top: 0;
+  background: rgba(156, 156, 192, 0.39);
+  border-radius: 5px;
+  color: white;
+}
